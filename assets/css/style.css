@@ -47,10 +47,13 @@ header nav {
 }
 
 /* Remove markers from navigation list 
-This doesn't appear to do anything.  Why not? - it should */
+
 header nav ul {
     list-style-type: none;
 }
+This doesn't appear to do anything.  Why not? - it should */
+
+
 
 /* Keep navigation list on same line as header and add spacing */
 header nav ul li {
@@ -64,6 +67,7 @@ header nav ul li a {
     text-decoration: none;
 }
 
+/* Why pink parenthesis????? */
 /* Set hero (large image) placement */
 .hero {
     height: 800px;
