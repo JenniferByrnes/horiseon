@@ -1,6 +1,18 @@
-# Code Refactor Starter Code
 # Horiseon Webpage
-This webpage is a class assignment to document and improve given starter code.  The page is a landing page for the fictional Horiseon company.  It has an html file called "index.html" and a css file called "style.css" in the assets/css folder.
-A screen shot of the page is [here](assets/images/screen-shot.png).
+This webpage is a landing page for the fictional Horiseon company. 
 
-The website location is https://jenniferbyrnes.github.io/horiseon/#social-media-marketing
+# Screenshot
+[Horiseon Landing Screenshot](assets/images/screen-shot.png).
+
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://jenniferbyrnes.github.io/horiseon/#social-media-marketing
+
+## Contribution
+Modified from class source code with ❤️ by Jennifer Byrnes
