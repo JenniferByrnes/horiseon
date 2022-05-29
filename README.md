@@ -12,7 +12,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://jenniferbyrnes.github.io/horiseon/#social-media-marketing
+https://jenniferbyrnes.github.io/horiseon
 
 ## Contribution
 Modified from class source code with ❤️ by Jennifer Byrnes
