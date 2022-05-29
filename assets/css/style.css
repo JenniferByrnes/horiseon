@@ -46,6 +46,11 @@ header nav {
     font-size: 20px;
 }
 
+/* Needed code to suppress bullet squares. */
+header nav ul {
+    list-style-type: none;
+}
+
 /* Keep navigation list on same line as header and add spacing */
 header nav ul li {
     display: inline;
@@ -58,7 +63,6 @@ header nav ul li a {
     text-decoration: none;
 }
 
-/* Why pink parenthesis????? */
 /* Set hero (large image) placement */
 .hero {
     height: 800px;
